@@ -4,7 +4,7 @@
 Website pemesanan layanan servis dan penanganan darurat sepeda motor panggilan berbasis web. Dirancang untuk memudahkan pengendara memesan mekanik ke lokasi tanpa harus mengantre di bengkel.
 
 ## Fitur Utama
-- **Katalog Paket Servis:** Daftar layanan servis ringan, servis besar, ganti oli, dan perbaikan darurat (ban bocor/aki soak) lengkap dengan estimasi harga.
+- **Katalog Paket Servis:** Daftar layanan servis ringan, servis besar, ganti oli, dan perbaikan darurat (mogok) lengkap dengan estimasi harga.
 - **Form Booking & Integrasi WhatsApp:** Formulir pemesanan cepat yang otomatis memformat data pelanggan (nama, jenis motor, keluhan, dan titik lokasi) ke pesan WhatsApp admin.
 - **Cek Area Jangkauan:** Informasi wilayah operasional dan estimasi waktu kedatangan mekanik.
 - **Tombol Panggilan Darurat:** Akses cepat satu klik untuk kondisi motor mogok di jalan.
