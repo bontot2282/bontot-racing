@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://bontot2282.github.io/bontot-racing/sitemap.xml
